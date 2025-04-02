@@ -8,7 +8,7 @@ This project is a timer clock application that allows users to set, start, pause
 
 - **Reset Timer:** Option to reset the timer to the initial set time.
 
-## ✨ Technologies Used
+## 🛠 Technologies Used
 
 - **React**: JavaScript library for building user interfaces.
 
